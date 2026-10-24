@@ -65,7 +65,7 @@ Logistic Regression performed better and was used for the predictive system.
 
 1. Clone the repository
 ```
-git clone https://github.com/Sofyane00/heart-disease-prediction.git
+git clone https://github.com/sofyane-elmhoufer/heart-disease-prediction.git
 cd heart-disease-prediction
 ```
 
@@ -101,4 +101,4 @@ jupyter notebook
 
 ## 👤 Author
 
-Sofyane — https://github.com/Sofyane00
+Sofyane — https://github.com/sofyane-elmhoufer
